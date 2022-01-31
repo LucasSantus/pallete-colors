@@ -1,15 +1,12 @@
 <h1 align="center">Pallete Colors</h1>
 
-<p align="center">
-	<a href="#sobre">Sobre</a> &nbsp;|&nbsp;
-	<a href="#porque">Por Que</a> &nbsp;|&nbsp;
-	<a href="#autor">Autor</a> &nbsp;|&nbsp;
-	<a href="#license">Licença</a>
-</p>
+<h6 align="center"> 
+	Se você quiser visualizar a documentação do projeto, clique <a href="https://oondev.github.io/componentes/pallete-colors/">aqui</a>.
+</h6>
 
 <h3 id="sobre">:information_source: Sobre</h3>
 
-> Este repositório tem foco na criação de uma paleta de cores de diversas variedades com intuito de deixar projetos mais vivos.
+> Este projeto foi desenvolvido tendo como foco a criação de uma paleta de cores de diversas variedades de tonalidades.
 
 A ideia é:
 
@@ -17,7 +14,17 @@ _"Criar um repositório onde o mesmo tenha armazenado uima variedade de cores."_
 
 --------------------------------------------------------------------------------------
 
-<h3 id="porque">:question: Por Que</h3>
+<h3 id="tabela-de-conteudo">:ab: Tabela de Conteúdo</h3>
+
+* [Sobre](#sobre)
+* [Tabela de Conteudo](#tabela-de-conteudo)
+* [Por Que](#por-que)
+* [Autor](#autor)
+* [Licença](#license)
+
+--------------------------------------------------------------------------------------
+
+<h3 id="por-que">:question: Por Que</h3>
 
 Este projeto faz parte do meu portfólio pessoal, ficarei feliz caso você forneça algum feedback, código, estrutura, funcionalidade ou qualquer funcionalidade&melhoria que você possa relatar para melhora-lo.
 
@@ -29,14 +36,21 @@ Este é um projeto totalmente grátis!
 
 <h3 id="autor">:bust_in_silhouette: Autor</h3>
 
-<div align="left"> 
-	<a href="https://github.com/LucasSantus">
-		<img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
-		<br />
-		Lucas Santus
-	</a>
-</div>
+<table>
+	<tr>
+		<td>
+			<div> 
+				<a href="https://github.com/LucasSantus">
+					<img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
+					<br />
+					Lucas Santus
+				</a>
+			</div>
+		</td>
+	</tr>
+</table>
 <br />
+
 Feito com ❤️ por Lucas Santus!<br />
 Obrigado por visitar e boa codificação!<br />
 
